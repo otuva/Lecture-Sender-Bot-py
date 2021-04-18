@@ -1,0 +1,22 @@
+2021-02-24 13:26:04,034 - apscheduler.scheduler - INFO - Scheduler started
+2021-02-24 13:26:14,122 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'info'
+2021-02-24 13:26:21,497 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'start'
+2021-02-24 13:26:43,134 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-02-24 13:26:43,134 - apscheduler.scheduler - INFO - Scheduler has been shut down
+
+2021-02-24 13:32:57,626 - apscheduler.scheduler - INFO - Scheduler started
+2021-02-24 13:33:01,449 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-02-24 13:33:01,450 - apscheduler.scheduler - INFO - Scheduler has been shut down
+
+2021-02-24 18:15:13,654 - apscheduler.scheduler - INFO - Scheduler started
+2021-02-24 18:15:14,116 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'start'
+2021-02-24 18:15:14,380 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'start'
+2021-02-24 18:15:40,079 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'lec'
+2021-02-24 18:16:47,458 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'start'
+2021-02-24 18:16:49,292 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'lec'
+2021-02-24 18:17:00,443 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'start'
+2021-02-24 18:17:03,489 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'lec'
+2021-02-24 18:19:21,475 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'lec'
+2021-02-24 18:19:56,259 - __main__ - INFO - [FULLNAME: onur | USERNAME: _____ | ID: 10000000] used command 'lec'
+2021-02-24 18:20:37,148 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2021-02-24 18:20:37,149 - apscheduler.scheduler - INFO - Scheduler has been shut down
