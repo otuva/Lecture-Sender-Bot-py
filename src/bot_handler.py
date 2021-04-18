@@ -96,7 +96,8 @@ def info(update: Update, context: CallbackContext) -> None:
     user = update.message.from_user
     command_logging(user, "info")
 
-    update.message.reply_text('Soon there will be a link to the source.\n\n'
+    update.message.reply_text('Source code:\n'
+                              'https://github.com/otuva/Lecture-Sender-Bot-py\n\n'
                               '♤ OAA ♤')
 
 
