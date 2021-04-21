@@ -2,10 +2,10 @@
 -----------bot_handler.py-----------
 ====================================
 //- variable - line -\\
-admin_list 18
-log_file 20 (optional)
-interval 37 (optional)
-bot_token 151
+admin_list 18  # telegram user id's for admin commands
+log_file 20 (optional)  # where the program should log. by default it'll log under the src file.
+interval 37 (optional)  # how often lecture_handler.py should check for lectures. by default its 30
+bot_token 151  # token for the main bot
 
 ====================================
 ----------/bot_handler.py-----------
@@ -19,8 +19,9 @@ bot_token 151
 --------notification_bot.py---------
 ====================================
 //- variable - line -\\
-chat_id 9
-bot_token 14
+chat_id 9  # where second bot will message
+bot_token 14  # it's optional. if you want to be notified when bot detects a change you should take another bot token.
+                easier than deep linking and web hooking if you're the only one who needs to know changes.
 
 ====================================
 -------/notification_bot.py---------
@@ -34,7 +35,7 @@ bot_token 14
 ----------sudo_handler.py-----------
 ====================================
 //- variable - line -\\
-passwd 7
+passwd 7  # sudo password. to change /etc/crontab
 
 ====================================
 ---------/sudo_handler.py-----------
@@ -47,7 +48,7 @@ passwd 7
 ====================================
 ---------lecture_handler.py---------
 ====================================
-* (all of the file)
+* (all of the file)  # yeah different websites require different solutions.
 
 ====================================
 --------/lecture_handler.py---------
@@ -61,8 +62,8 @@ passwd 7
 -------difference_checker.py--------
 ====================================
 //- variable - line -\\
-file_path 7 (optional)
-cache_path 8 (optional)
+file_path 7 (optional)  # the lectures.txt file path. by default it's under src
+cache_path 8 (optional)  # the cache.txt file path. by default it's under src
 ====================================
 ------/difference_checker.py--------
 ====================================
@@ -74,7 +75,7 @@ cache_path 8 (optional)
 ====================================
 ----------cron_handler.py-----------
 ====================================
-/ (nothing to change)
+/ (nothing to change)  # just the driver code
 ====================================
 ---------/cron_handler.py-----------
 ====================================
