@@ -1,12 +1,12 @@
 """
-
+brute forced solution.
+kinda mess but I suppose no one but me would use solution below
+different websites would require different solutions
+I put this module here only to have complete source code on github
+so it's just a specimen module
 """
 def main():
     """authenticate and scrape lectures from uni's website"""
-
-    # again kinda brute forced solution.
-    # kinda mess but I suppose no one but me would use solution below
-    # different websites would require different solutions
     import requests
     import datetime
     import time

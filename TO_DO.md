@@ -3,9 +3,9 @@
 - version
 - make a log command for remotely debug 
 - document more
-- prettier readme.md
 
 #Done
 - requirements
 - logging
 - change_these.txt
+- prettier readme.md
