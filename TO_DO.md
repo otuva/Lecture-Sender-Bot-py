@@ -3,6 +3,7 @@
 - version
 - make a log command for remotely debug 
 - document more
+- change this file to uncompleted/completed tasks
 
 #Done
 - requirements
