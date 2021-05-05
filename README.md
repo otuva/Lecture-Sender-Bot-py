@@ -1,11 +1,15 @@
 # Lecture-Sender-Bot-py
-A Telegram bot for reading and indexing lectures from AtaUni CE.
+
+[![MIT Licence](https://img.shields.io/badge/license-MIT-success.svg)](https://github.com/otuva/Lecture-Sender-Bot-py/blob/main/LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/otuva/Lecture-Sender-Bot-py)]()
+
+A Telegram bot for reading and indexing lectures from AtaUni CE website.
 
 ---
 
 [Chat with the bot on Telegram.](https://t.me/lecturesender_bot)
 
-**Usage:**
+### Usage:
 
 0- Take a bot token from telegram's _Bot Father_.
 
@@ -30,3 +34,14 @@ _/etc/crontab_
 
 ---
 
+#### Commands:
+
+Command  | Description
+------------- | -------------
+start  | Start the bot
+lec  | List lectures
+info | Source link
+force | Update list
+minute | Change interval
+
+---
