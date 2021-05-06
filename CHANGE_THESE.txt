@@ -6,10 +6,11 @@ admin_list 18  # telegram user id's for admin commands
 log_file 20 (optional)  # where the program should log. by default it'll log under the src file.
 interval 37 (optional)  # how often lecture_handler.py should check for lectures. by default its 30
 bot_token 151  # token for the main bot
-
 ====================================
 ----------/bot_handler.py-----------
 ====================================
+
+
 
 
 
@@ -22,10 +23,11 @@ bot_token 151  # token for the main bot
 chat_id 9  # where second bot will message
 bot_token 14  # it's optional. if you want to be notified when bot detects a change you should take another bot token.
                 easier than deep linking and web hooking if you're the only one who needs to know changes.
-
 ====================================
 -------/notification_bot.py---------
 ====================================
+
+
 
 
 
@@ -36,10 +38,11 @@ bot_token 14  # it's optional. if you want to be notified when bot detects a cha
 ====================================
 //- variable - line -\\
 passwd 7  # sudo password. to change /etc/crontab
-
 ====================================
 ---------/sudo_handler.py-----------
 ====================================
+
+
 
 
 
@@ -49,10 +52,11 @@ passwd 7  # sudo password. to change /etc/crontab
 ---------lecture_handler.py---------
 ====================================
 * (all of the file)  # yeah different websites require different solutions.
-
 ====================================
 --------/lecture_handler.py---------
 ====================================
+
+
 
 
 
@@ -67,6 +71,8 @@ cache_path 8 (optional)  # the cache.txt file path. by default it's under src
 ====================================
 ------/difference_checker.py--------
 ====================================
+
+
 
 
 
