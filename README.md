@@ -7,7 +7,7 @@ A Telegram bot for reading and indexing lectures from AtaUni CE website.
 
 ---
 
-[Chat with the bot on Telegram. (Online since 24 February 2021)](https://t.me/lecturesender_bot)
+[Chat with the bot on Telegram. (~~Online since 24 February 2021~~) Currently offline.](https://t.me/lecturesender_bot)
 
 ### Usage:
 
