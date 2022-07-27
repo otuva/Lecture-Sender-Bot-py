@@ -1,13 +1,13 @@
 # Lecture-Sender-Bot-py
 
+# NOT MAINTAINED 
+
 [![MIT Licence](https://img.shields.io/badge/license-MIT-success.svg)](https://github.com/otuva/Lecture-Sender-Bot-py/blob/main/LICENSE)
 [![Repo Size](https://img.shields.io/github/repo-size/otuva/Lecture-Sender-Bot-py)](https://github.com/otuva/Lecture-Sender-Bot-py)
 
-A Telegram bot for reading and indexing lectures from AtaUni CE website.
-
 ---
 
-[Chat with the bot on Telegram. (~~Online since 24 February 2021~~) Currently offline.](https://t.me/lecturesender_bot)
+[Chat with the bot on Telegram. (~~Online since 24 February 2021~~) **Currently offline.**](https://t.me/lecturesender_bot)
 
 ### Usage:
 
